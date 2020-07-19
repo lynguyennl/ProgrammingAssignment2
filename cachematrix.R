@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 ## create the special vector/ list that contains function
 makeCacheMatrix <- function(x = matrix()) 
 {
@@ -31,8 +26,6 @@ makeCacheMatrix <- function(x = matrix())
              getInverse = getInverse)
 }
 
-
-## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) 
 {
